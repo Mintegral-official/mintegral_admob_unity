@@ -20,4 +20,5 @@ Source File：  https://github.com/Mintegral-official/mintegral_admob_adapter_io
 
 
 **Android**
+
 Jar File：  https://github.com/Mintegral-official/mintegral_admob_adapter_android
