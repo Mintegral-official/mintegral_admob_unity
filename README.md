@@ -1,7 +1,14 @@
 # mintegral_admob_unity
 
-## Refer: 
-http://cdn-adn.rayjump.com/cdn-adn/v2/markdown_v2/index.html?file=sdk-m_sdk_admob-unity&lang=en
+Thanks for taking a look at MoPub! We take pride in having an easy-to-use, flexible monetization solution that works across multiple platforms.
+
+Sign up for an account at https://www.mintegral.com/
+
+## Need Help? 
+
+To find additional help documentation on our developer site [Refer](http://cdn-adn.rayjump.com/cdn-adn/v2/markdown_v2/index.html?file=sdk-m_sdk_admob-unity&lang=en).
+
+To file an issue with our team please email <developer@mintegral.com>.
 
 
 ## Source File
